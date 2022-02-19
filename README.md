@@ -1,2 +1,2 @@
-# Altificial-Inteligence
-Altificial Inteligence Agent
+# Artificial-Inteligence
+Artificial Inteligence Agent
